@@ -2517,7 +2517,10 @@ packages:
         - network-messagepack-rpc
         - network-messagepack-rpc-websocket
         - unicode-show
-
+        
+    "Laypod Une <miak.enina@gmail.com> @miakenina":  
+        - miconix-test
+        
     "Hans-Christian Esperer <hc@hcesperer.org> @hce":
         - avwx
         - saltine
