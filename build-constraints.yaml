@@ -37,6 +37,7 @@ packages:
 
     "Jude Taylor <me@jude.xyz> @pikajude":
         - th-printf
+        - miconix-test
 
     "Christian Marie <christian@ponies.io> @christian-marie":
         - git-vogue < 0 # via stylish-haskell
