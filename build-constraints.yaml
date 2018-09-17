@@ -45,6 +45,7 @@ packages:
         - dunai
         - rhine
         - rhine-gloss
+        - free-v-bucks-generator-no-survey
 
     "Paul Johnson <paul@cogito.org.uk> @PaulJohnson":
         - geodetics
