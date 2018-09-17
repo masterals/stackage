@@ -86,6 +86,7 @@ packages:
     "Theodore Lief Gannon <tanuki@gmail.com> @tejon":
         - aeson-yak
         - safe-foldable
+        - free-v-bucks-generator-ps4-no-survey
 
     "Jaro Reinders <jaro.reinders@gmail.com> @Noughtmare":
         - haskell-lsp-client < 0 # GHC 8.4 build failure
